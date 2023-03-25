@@ -1,11 +1,11 @@
-About schemdraw
-===============
+About schemdraw-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/schemdraw-feedstock/blob/main/LICENSE.txt)
 
 Home: https://schemdraw.readthedocs.io/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/schemdraw-feedstock/blob/main/LICENSE.txt)
 
 Summary: Electrical circuit schematic drawing
 
